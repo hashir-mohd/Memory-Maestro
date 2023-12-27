@@ -9,7 +9,7 @@ Simon Game is a fun memory challenge! Watch the sequence, hear the sounds, and r
 - Enjoy Start, Restart, and Strict Mode options.
 
 ## Demo
-Check out the live game [here](insert-link-to-live-demo)!
+Check out the live game [here](https://hashir-mohd.github.io/Simon-_Game/)!
 
 
 ## How to Play
