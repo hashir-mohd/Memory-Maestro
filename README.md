@@ -1,5 +1,8 @@
 # Simon Game
 
+## Demo
+Check out the live game [here](https://hashir-mohd.github.io/Simon-_Game/)!
+
 ## Description
 Simon Game is a fun memory challenge! Watch the sequence, hear the sounds, and repeat them by clicking the colorful buttons. With increasing levels, it gets trickier!
 
@@ -7,9 +10,6 @@ Simon Game is a fun memory challenge! Watch the sequence, hear the sounds, and r
 - Interactive gameplay with vibrant colors and cool sounds.
 - Tracks your highest score and current level.
 - Enjoy Start, Restart, and Strict Mode options.
-
-## Demo
-Check out the live game [here](https://hashir-mohd.github.io/Simon-_Game/)!
 
 
 ## How to Play
