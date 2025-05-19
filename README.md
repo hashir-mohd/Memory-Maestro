@@ -1,7 +1,7 @@
 # Simon Game
 
 ## Demo
-Check out the live game [here](https://hashir-mohd.github.io/Simon-_Game/)!
+Check out the live game [here](https://v0-memory-maestro-development.vercel.app/)!
 
 ## Description
 Simon Game is a fun memory challenge! Watch the sequence, hear the sounds, and repeat them by clicking the colorful buttons. With increasing levels, it gets trickier!
